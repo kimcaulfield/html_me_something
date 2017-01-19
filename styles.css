@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+    background-color: lightpink;
+    font-size: 100%;
+    font-family: comic sans ms;
+}
+header {
+    color: Indigo;
+    text-align: center;
+    font-size:150%;
+}
+nav ol {
+	text-align: center;
+	padding: 0;
+}
+nav ol li {
+	margin-right: 1em;
+	font-size: 1em;
+}
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+img {
+    height: 300px;
+    width: 25%;
+}
+h2, h3, h4 {
+    font-size: 1em;
+    color: gray;
+    font-weight: bold;
+    text-align: center;
+}
+p {
+    color: gray;
+    text-align: center;
+}
+footer {
+    font-style: italic;
+    font-size: 10px;
+}
+section {
+    background-color: lightgray;
+    width: 75%; 
+    margin: 200px;
+}
